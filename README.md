@@ -17,6 +17,7 @@
   #### <a href="https://github.com/byronksmith/bootcamp/tree/main/kubernetes" target="_blank">Kubernetes</a>
 ### K8s on AWS
 ### IaC with Terraform
+  #### <a href="https://github.com/byronksmith/bootcamp/tree/main/terraform" target="_blank">Terraform</a>
 ### Programming Basics
   #### <a href="https://github.com/byronksmith/bootcamp/tree/main/python" target="_blank">Python</a>
 
