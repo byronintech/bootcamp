@@ -14,12 +14,17 @@
   Jenkins
 ### AWS Services
 ### Container Orchestration
-  <a href="https://github.com/byronksmith/bootcamp/tree/main/kubernetes" target="_blank">Kubernetes</a>
+  #### <a href="https://github.com/byronksmith/bootcamp/tree/main/kubernetes" target="_blank">Kubernetes</a>
 ### K8s on AWS
 ### IaC with Terraform
 ### Programming Basics
-  Python
+  #### <a href="https://github.com/byronksmith/bootcamp/tree/main/python" target="_blank">Python</a>
+
 ### Automation with Python
+   #### <a href="https://github.com/byronksmith/bootcamp/tree/main/python-automation" target="_blank">Python-Automation</a>
+   - Add Tags to EC2 Instances
+   - EC2 Status Check
+   - EKS Status Check
 ### Configuration Management
   Ansible
 ### Monitoring with Prometheus
